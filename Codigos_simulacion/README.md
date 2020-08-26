@@ -1,2 +1,3 @@
 # Instrucciones para la compilación de estos códigos [![Build Status](https://img.shields.io/badge/Estado%3A-Terminado-green)](https://img.shields.io/badge/Estado%3A-Terminado-green)
 
+Para compilar estos códigos, es necesario haber seguido el procesos de instalación de Projucer. En este mismo repositorio, se encuentra un manual que nos lleva paso por paso a lo largo de la instalación. Para correr los códigos, basta con descargar el repositorio, descomprimir la carpeta zip y correr el ejecutable. Si se le quiere hacer alguna modificación al código fuente, se recomienda ampliamente consultar el manual disponible en este repositorio. 
