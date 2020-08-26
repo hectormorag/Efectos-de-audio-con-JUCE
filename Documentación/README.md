@@ -1,4 +1,6 @@
-# Manual usuario
+# Manual usuario [![Build Status](https://img.shields.io/badge/Estado%3A-Terminado-green)](https://img.shields.io/badge/Estado%3A-Terminado-green)
+
+
 
 ## Primera parte
 
