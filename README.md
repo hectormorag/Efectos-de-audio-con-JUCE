@@ -1,4 +1,4 @@
-## Efectos de audio con JUCE [![Build Status](https://img.shields.io/badge/Estado-En%20Construcci%C3%B3n-brightgreen)](https://img.shields.io/badge/Estado-En%20Construcci%C3%B3n-brightgreen)
+## Efectos de audio con JUCE [![Build Status](https://img.shields.io/badge/Estado-En%20Construcci%C3%B3n-brightgreen)](https://img.shields.io/badge/Estado%3A-Terminado-green)
 
 Este repositorio fue elaborado como parte de las actividades realizadas durante mi servicio social en el tema "Optimización de uso de Software de Manipulación Algebraica" bajo la supervisión del Dr. Eduardo Nahmad Achar. Aquí se pueden encontrar los códigos utilizados para simular los efectos de audio estudiados en la optativa Introducción a la Acústica Contemporánea; impartida para alumnos de física de la Facultad de Ciencias de la UNAM. 
 
